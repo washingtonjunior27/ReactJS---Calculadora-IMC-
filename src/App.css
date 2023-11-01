@@ -1,0 +1,9 @@
+.container{
+    background-color: var(--container);
+    padding: 1rem;
+    box-shadow: 2px 3px 8px rgba(0, 0, 0, 0.8);
+    color: var(--light);
+    min-height: 30rem;
+    min-width: 30rem;
+    border-radius: .5rem;
+}

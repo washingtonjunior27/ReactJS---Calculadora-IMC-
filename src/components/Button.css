@@ -1,0 +1,20 @@
+.btn{
+    padding: 1rem 1.5rem;
+    flex: 1;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: var(--red);
+    color: var(--light);
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 0.9;
+    font-size: 1.6rem;
+}
+.btn:hover{
+    opacity: 1;
+}
+#limpar{
+    background-color: var(--light);
+    color: var(--red);
+}
